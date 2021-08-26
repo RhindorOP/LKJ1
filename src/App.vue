@@ -20,6 +20,15 @@
 						<v-list-item class="pa-0">
 							<v-btn href="https://rhindorop.github.io/LKJ2/" text>LKJ 2</v-btn>
 						</v-list-item>
+						<v-list-item class="pa-0">
+							<v-btn href="https://rhindorop.github.io/LKJ3/" text>LKJ 3</v-btn>
+						</v-list-item>
+						<v-list-item class="pa-0">
+							<v-btn href="https://rhindorop.github.io/LKJ4/" text>LKJ 4</v-btn>
+						</v-list-item>
+						<v-list-item class="pa-0">
+							<v-btn href="https://rhindorop.github.io/LKJ5/" text>LKJ 5</v-btn>
+						</v-list-item>
 					</v-list>
 				</v-menu>
 
